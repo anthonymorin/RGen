@@ -2,7 +2,7 @@
   "profiles": {
     "RGen": {
       "commandName": "Project",
-      "commandLineArgs": "P 10"
+      "commandLineArgs": "P 100"
     }
   }
 }

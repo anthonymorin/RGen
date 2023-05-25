@@ -99,7 +99,7 @@ class Generator : IEnumerable<string>
 
         Regex reg = new Regex(@"[0-9]+");
 
-        for(int row = 1; row < 10; row++)
+        for(int row = 1; row < 11; row++)
         {
             for(int col = 0; col < length; col++)
             {
