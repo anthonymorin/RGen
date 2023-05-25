@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RGen": {
+      "commandName": "Project",
+      "commandLineArgs": "P 10"
+    }
+  }
+}
